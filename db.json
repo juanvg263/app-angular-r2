@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "a2ed",
+      "fullname": "Juan Jose Villegas",
+      "email": "juan@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "2ec3",
+      "fullname": "Luis Villegas",
+      "email": "luis@gmail.com",
+      "password": "321"
+    },
+    {
+      "id": "45a6",
+      "fullname": "David Gonzalez",
+      "email": "david@gmail.com",
+      "password": "1234"
+    }
+  ]
+}
